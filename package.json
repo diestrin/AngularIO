@@ -1,0 +1,12 @@
+{
+  "name": "angulario",
+  "version": "0.0.1",
+  "description": "",
+  "browser": "./browser.js",
+  "main": "./index.js",
+  "dependencies": {
+    "express": "^4.12.4",
+    "jsdom": "<=3.x.x",
+    "lodash": "^3.9.3"
+  }
+}
