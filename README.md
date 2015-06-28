@@ -4,6 +4,7 @@
 
 This is an aim to create isomorphic Angular.js code that works in both, back-end and front-end at the same time.
 This is thought to be achieved by creating a sort of services and interceptors with ngRoute and others, and connect the Angular config with the Express routing.
+Check the [test](https://github.com/diestrin/AngularIO-Test) project to see how this works.
 
 ## What do I need to know?
 
